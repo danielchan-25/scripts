@@ -1,2 +1,1 @@
-# python-scripts
-My Python Script :)
+# All my scripts
